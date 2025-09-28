@@ -1,0 +1,17 @@
+#angebot {
+  background-color: firebrick;
+  margin: 1em 3em;
+  padding: 1em;
+  width: 10em;
+  text-align: center;
+}
+
+#angebot h3 {
+  font-size: 2em;
+  font-variant: small-caps;
+  color: lightyellow;
+}
+
+#angebot p {
+  color: white;
+}
